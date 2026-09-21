@@ -33,3 +33,15 @@
 
 * 오늘 한 일 (Work Done): 우주 채굴 탐험 게임 기획 및 AI 프롬프트를 활용한 건물과 구조물 생성 (Planned the space mining exploration game and created buildings and structures using AI prompts.)
 * 다음 작업 (Next Step): 게임 맵 및 주요 요소 제작 이어서 진행 (Continue developing the game map and key elements.)
+
+### 2026-09-21
+
+* 오늘 한 일 (Work Done): 도시 공간 확인 및 체험 공유 설정 진행 (Reviewed the city space and proceeded with the experience sharing settings.)
+* 다음 작업 (Next Step): 체험 공유 설정 마무리 (Complete the experience sharing settings.)
+
+
+
+
+
+
+
