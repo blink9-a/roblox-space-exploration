@@ -31,8 +31,5 @@
 
 ### 2026-09-07
 
-우주 채굴 탐험 게임의 맵과 주요 요소를 구체적으로 기획하며 수업에 적극 참여했습니다.
-(Actively participated in the lesson by planning the map and key elements of the space mining exploration game in detail.)
-
-AI 프롬프트(AI Prompt)를 단계적으로 작성하고 실제 AI에 적용하여, 설계한 내용을 바탕으로 게임에 사용할 건물과 구조물을 생성했습니다.
-(Created an AI prompt step by step and applied it to an AI tool to generate buildings and structures based on the planned design.)
+* 오늘 한 일 (Work Done): 우주 채굴 탐험 게임 기획 및 AI 프롬프트를 활용한 건물과 구조물 생성 (Planned the space mining exploration game and created buildings and structures using AI prompts.)
+* 다음 작업 (Next Step): 게임 맵 및 주요 요소 제작 이어서 진행 (Continue developing the game map and key elements.)
