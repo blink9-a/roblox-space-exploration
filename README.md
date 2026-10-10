@@ -39,6 +39,10 @@
 * 오늘 한 일 (Work Done): 도시 공간 확인 및 체험 공유 설정 진행 (Reviewed the city space and proceeded with the experience sharing settings.)
 * 다음 작업 (Next Step): 체험 공유 설정 마무리 (Complete the experience sharing settings.)
 
+### 2026-10-09
+
+* 오늘 한 일 (Work Done): Codex 기본 사용 방법 학습 및 캐릭터 이미지를 활용한 AI 프롬프트 작성 (Learned the basics of Codex and created AI prompts using character images.)
+* 다음 작업 (Next Step): 캐릭터 애니메이션 제작 (Create character animations.)
 
 
 
