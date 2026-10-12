@@ -44,7 +44,10 @@
 * 오늘 한 일 (Work Done): Codex 기본 사용 방법 학습 및 캐릭터 이미지를 활용한 AI 프롬프트 작성 (Learned the basics of Codex and created AI prompts using character images.)
 * 다음 작업 (Next Step): 캐릭터 애니메이션 제작 (Create character animations.)
 
+### 2026-10-12
 
+* 오늘 한 일 (Work Done): 맵의 세부 요소 수정 및 캐릭터 애니메이션 제작 방법 학습 (Refined map details and learned how to create character animations.)
+* 다음 작업 (Next Step): 캐릭터 애니메이션 제작 및 적용, 동작 테스트 (Create and apply character animations, then test their movements.)
 
 
 
