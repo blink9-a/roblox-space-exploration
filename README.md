@@ -49,6 +49,15 @@
 * 오늘 한 일 (Work Done): 맵의 세부 요소 수정 및 캐릭터 애니메이션 제작 방법 학습 (Refined map details and learned how to create character animations.)
 * 다음 작업 (Next Step): 캐릭터 애니메이션 제작 및 적용, 동작 테스트 (Create and apply character animations, then test their movements.)
 
+### 2026-10-19
+
+* 오늘 한 일 (Work Done): 캐릭터 애니메이션 제작 및 실제 게임 적용 (Created a character animation and applied it to the game.)
+* 다음 작업 (Next Step): 총기 무기 제작 및 발사 기능 구현 (Create a gun weapon and implement shooting functionality.)
+
+
+
+
+
 
 
 
