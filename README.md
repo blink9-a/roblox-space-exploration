@@ -54,6 +54,10 @@
 * 오늘 한 일 (Work Done): 캐릭터 애니메이션 제작 및 실제 게임 적용 (Created a character animation and applied it to the game.)
 * 다음 작업 (Next Step): 총기 무기 제작 및 발사 기능 구현 (Create a gun weapon and implement shooting functionality.)
 
+### 2026-10-26
+
+* 오늘 한 일 (Work Done): AI를 활용한 라이플 제작 및 추가
+* 다음 작업 (Next Step): AI 응답 기능 구현
 
 
 
