@@ -59,6 +59,11 @@
 * 오늘 한 일 (Work Done): AI를 활용한 라이플 제작 및 추가
 * 다음 작업 (Next Step): AI 응답 기능 구현
 
+### 2026-11-02
+
+- Work Done: Modified the table code of an AI-created quest NPC
+- Next Step: Implement an AI response feature
+
 
 
 
