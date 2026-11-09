@@ -65,7 +65,10 @@
 - Next Step: Implement an AI response feature
 
 
+### 2026-11-09
 
+- Work Done: Connected an NPC to Codex
+- Next Step: Test NPC speaking styles using tables and explore the JSON response structure
 
 
 
