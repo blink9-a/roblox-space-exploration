@@ -76,6 +76,6 @@
 - Work Done: Reviewed the AI gateway connection process and configured and tested NPC speaking styles and response behavior using tables
 - Next Step: Practice working with smart items and a procedural AI building generator
 
-- 
+
 
 
